@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/toogreen/react-portfoliostatic/css/main.5facb584.chunk.css",
-    "main.js": "/toogreen/react-portfoliostatic/js/main.80348b70.chunk.js",
-    "main.js.map": "/toogreen/react-portfoliostatic/js/main.80348b70.chunk.js.map",
-    "runtime-main.js": "/toogreen/react-portfoliostatic/js/runtime-main.ca0bee0a.js",
-    "runtime-main.js.map": "/toogreen/react-portfoliostatic/js/runtime-main.ca0bee0a.js.map",
-    "static/js/2.3ef2d018.chunk.js": "/toogreen/react-portfoliostatic/js/2.3ef2d018.chunk.js",
-    "static/js/2.3ef2d018.chunk.js.map": "/toogreen/react-portfoliostatic/js/2.3ef2d018.chunk.js.map",
-    "index.html": "/toogreen/react-portfolioindex.html",
-    "precache-manifest.2de34b8276f70eae0ee0caef82031cfc.js": "/toogreen/react-portfolioprecache-manifest.2de34b8276f70eae0ee0caef82031cfc.js",
-    "service-worker.js": "/toogreen/react-portfolioservice-worker.js",
-    "static/css/main.5facb584.chunk.css.map": "/toogreen/react-portfoliostatic/css/main.5facb584.chunk.css.map",
-    "static/js/2.3ef2d018.chunk.js.LICENSE.txt": "/toogreen/react-portfoliostatic/js/2.3ef2d018.chunk.js.LICENSE.txt"
+    "main.css": "/toogreen/react-portfolio/static/css/main.5facb584.chunk.css",
+    "main.js": "/toogreen/react-portfolio/static/js/main.cc641728.chunk.js",
+    "main.js.map": "/toogreen/react-portfolio/static/js/main.cc641728.chunk.js.map",
+    "runtime-main.js": "/toogreen/react-portfolio/static/js/runtime-main.03a92bf1.js",
+    "runtime-main.js.map": "/toogreen/react-portfolio/static/js/runtime-main.03a92bf1.js.map",
+    "static/js/2.3ef2d018.chunk.js": "/toogreen/react-portfolio/static/js/2.3ef2d018.chunk.js",
+    "static/js/2.3ef2d018.chunk.js.map": "/toogreen/react-portfolio/static/js/2.3ef2d018.chunk.js.map",
+    "index.html": "/toogreen/react-portfolio/index.html",
+    "precache-manifest.f039dc880996d7b35b9a4e16ff82a44c.js": "/toogreen/react-portfolio/precache-manifest.f039dc880996d7b35b9a4e16ff82a44c.js",
+    "service-worker.js": "/toogreen/react-portfolio/service-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/toogreen/react-portfolio/static/css/main.5facb584.chunk.css.map",
+    "static/js/2.3ef2d018.chunk.js.LICENSE.txt": "/toogreen/react-portfolio/static/js/2.3ef2d018.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ca0bee0a.js",
+    "static/js/runtime-main.03a92bf1.js",
     "static/js/2.3ef2d018.chunk.js",
     "static/css/main.5facb584.chunk.css",
-    "static/js/main.80348b70.chunk.js"
+    "static/js/main.cc641728.chunk.js"
   ]
 }
