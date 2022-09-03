@@ -26,5 +26,21 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "## 👇 WATCH THIS FIRST 👇 ## https://tinyurl.com/customizeReactPortfolio",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toogreen/react-portfolio.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "David Gagnon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toogreen/react-portfolio/issues"
+  },
+  "homepage": "https://github.com/toogreen/react-portfolio#readme"
 }
